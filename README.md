@@ -68,8 +68,9 @@ Currently preparing for professional opportunities in web development.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debobrott456&show_icons=true&theme=gruvbox&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=debobrott456&theme=tokyonight" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=debobrott456&theme=gruvbox&hide_border=true&cache_seconds=1800" />
