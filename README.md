@@ -68,20 +68,22 @@ Currently preparing for professional opportunities in web development.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debobrott456&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=debobrott456&show_icons=true&theme=gruvbox&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debobrott456&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=debobrott456&theme=gruvbox&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debobrott456&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debobrott456&layout=compact&theme=gruvbox&hide_border=true" />
 </p>
+
 
 ---
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=fadeIn&color=0:8b0000,50:1c2f4a,100:0a1a2f" />
 </p>
+
