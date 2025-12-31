@@ -68,15 +68,15 @@ Currently preparing for professional opportunities in web development.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debobrott456&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=debobrott456&show_icons=true&theme=gruvbox&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=debobrott456&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=debobrott456&theme=gruvbox&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debobrott456&layout=compact&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debobrott456&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=1800" />
 </p>
 
 
