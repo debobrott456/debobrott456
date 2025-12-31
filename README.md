@@ -1,10 +1,11 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Full%20Stack%20Web%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn&color=0:0a1a2f,50:1c2f4a,100:8b0000" />
 </p>
 
+
 <!-- ===================== NAME & DESIGNATION ===================== -->
-<h1 align="center">Hi 👋, I'm Joy Kumar</h1>
+<h1 align="center">Hi, I'm Joy Kumar</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack</h3>
 
 ---
@@ -67,15 +68,15 @@ Currently preparing for professional opportunities in web development.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=debobrott456&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debobrott456&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debobrott456&layout=compact&theme=tokyonight" />
 </p>
 
 ---
