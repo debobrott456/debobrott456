@@ -111,8 +111,7 @@ I am a passionate **Full Stack Developer** specializing in the **MERN** stack. I
 
 <div align="center">
   
-  <!-- GitHub Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debobrott456&theme=tokyo-night&hide_border=true&area=true&custom_title=Joy%20Kumar's%20Contribution%20Graph" width="100%" />
+
   
   <!-- Recent Activity -->
   <details>
