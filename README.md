@@ -1,19 +1,10 @@
 <div align="center">
-
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debobrott456/debobrott456/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debobrott456/debobrott456/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/debobrott456/debobrott456/output/github-contribution-grid-snake.svg">
-  </picture>
-
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Joy%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400px" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Joy%20Kumar&fontSize=70&animation=fadeIn" width="100%" />
   
-  <br />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" />
 
-  <h3>🌐 MERN Stack Developer | TypeScript Enthusiast | Open Source Contributor</h3>
+  <h3>🚀 MERN Stack Developer | Problem Solver</h3>
+
 
   <p align="center">
     <a href="https://www.linkedin.com/in/joy-kumar-61b372392"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
