@@ -1,90 +1,76 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Full%20Stack%20Web%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn&color=0:0a1a2f,50:1c2f4a,100:8b0000" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:2193b0,100:6dd5ed&height=220&section=header&text=Joy%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  
+  <h3>🌐 MERN Stack Developer | TypeScript Enthusiast | Open Source Contributor</h3>
 
-
-<!-- ===================== NAME & DESIGNATION ===================== -->
-<h1 align="center">Hi, I'm Joy Kumar</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack</h3>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/joy-kumar-61b372392"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/debobrott456"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
 ### 👨‍💻 About Me
-I am a passionate Full Stack Web Developer specializing in the MERN stack.  
-I enjoy building scalable, user-friendly web applications using modern technologies.  
-I focus on clean code, performance optimization, and real-world problem solving.  
-Currently preparing for professional opportunities in web development.
+I am a passionate **Full Stack Developer** specializing in the **MERN** stack. I focus on writing high-performance, scalable code and building intuitive user interfaces.
+
+- 🔭 **Current Focus:** Developing a robust **Tourism Management System**.
+- 🌱 **Learning Path:** Deep-diving into **Next.js 14** (App Router) and **TypeScript** for type-safety.
+- 🔐 **Security:** Implementing advanced **Firebase & JWT** authentication flows.
+- 📚 **Engineering:** Improving Backend Architecture with **Node.js & Express**.
 
 ---
 
-<!-- ===================== CURRENT ACTIVITIES ===================== -->
-### 🚀 Current Activities
-- 🔍 Exploring **Next.js** for server-side rendering and performance
-- 💻 Working on a **Tourism Website** using MERN Stack
-- 🔐 Implementing **Firebase Authentication**
-- 📚 Improving backend skills with **Node.js & Express.js**
+### 🛠️ Technical Toolkit
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎨 Frontend Development</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Database</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧰 Tools & Version Control</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Deployment & Hosting</h4>
+      <img src="https://skillicons.dev/icons?i=netlify,vercel,heroku" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- ===================== SKILLS ===================== -->
-### 🛠️ Skills
-
-#### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
-
-#### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-#### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-<!-- ===================== SOCIAL LINKS ===================== -->
-### 🌐 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/joy-kumar-61b372392?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/debobrott456/debobrott456" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-twitter-username" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- ===================== GITHUB STATS ===================== -->
-### 📊 GitHub Stats
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debobrott456&show_icons=true&theme=algolia&count_private=true&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debobrott456&layout=compact&theme=algolia&hide_border=true" height="180px" />
+</div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=debobrott456&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debobrott456&theme=algolia&hide_border=true" />
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=debobrott456&theme=gruvbox&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debobrott456&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=1800" />
-</p>
-
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=fadeIn&color=0:8b0000,50:1c2f4a,100:0a1a2f" />
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/joy-kumar-61b372392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joy Kumar" height="30" width="40" /></a>
+<a href="https://twitter.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Joy Kumar" height="30" width="40" /></a>
+<a href="https://fb.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Joy Kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Joy Kumar" height="30" width="40" /></a>
 </p>
 
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:6dd5ed,100:2193b0&height=120&section=footer&text=Thanks%20for%20Visiting%20!&fontSize=30&fontAlignY=70" width="100%" />
+</div>
