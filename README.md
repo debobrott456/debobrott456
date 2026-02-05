@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:2193b0,100:6dd5ed&height=220&section=header&text=Joy%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Joy%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3/L1R1TVtoGMMfxMIEXY/giphy.gif" width="400px" />
   
+  <br />
+
   <h3>🌐 MERN Stack Developer | TypeScript Enthusiast | Open Source Contributor</h3>
 
   <p align="center">
@@ -49,15 +54,21 @@ I am a passionate **Full Stack Developer** specializing in the **MERN** stack. I
 
 ---
 
-### 📊 GitHub Activity
+### 📊 My GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debobrott456&show_icons=true&theme=algolia&count_private=true&hide_border=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debobrott456&layout=compact&theme=algolia&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=debobrott456&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="center" height="170px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debobrott456&layout=compact&theme=tokyonight&hide_border=true" align="center" height="170px" />
+  
+  <br /> <br />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debobrott456&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debobrott456&theme=algolia&hide_border=true" />
-</p>
+---
+
+
 
 ---
 
@@ -70,6 +81,9 @@ I am a passionate **Full Stack Developer** specializing in the **MERN** stack. I
 </p>
 
 ---
+<p><img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" />
+</p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=0:6dd5ed,100:2193b0&height=120&section=footer&text=Thanks%20for%20Visiting%20!&fontSize=30&fontAlignY=70" width="100%" />
