@@ -1,8 +1,15 @@
 <div align="center">
 
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debobrott456/debobrott456/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debobrott456/debobrott456/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/debobrott456/debobrott456/output/github-contribution-grid-snake.svg">
+  </picture>
+
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Joy%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3/L1R1TVtoGMMfxMIEXY/giphy.gif" width="400px" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400px" />
   
   <br />
 
@@ -54,16 +61,53 @@ I am a passionate **Full Stack Developer** specializing in the **MERN** stack. I
 
 ---
 
+### 🏆 GitHub Achievements & Activity
+
+<div align="center">
+  
+  <!-- Real-time Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Specialist;TypeScript+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies&font=Roboto&size=25&duration=3000&pause=1000&color=58A6FF&center=true&width=600&height=50" />
+  
+</div>
+
+---
+
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debobrott456&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="center" height="170px" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debobrott456&layout=compact&theme=tokyonight&hide_border=true" align="center" height="170px" />
+  <!-- GitHub Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=debobrott456&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debobrott456&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" />
   
-  <br /> <br />
+  <br />
   
+  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=debobrott456&theme=tokyonight&hide_border=true" width="100%" />
+  
+  <br />
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debobrott456&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  
+  <br />
+  
+  <!-- GitHub Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debobrott456&theme=tokyonight" width="100%" />
+  
+  <!-- Additional Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debobrott456&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debobrott456&theme=tokyonight" width="48%" />
+  
+  <br />
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=debobrott456&label=Profile%20views&color=0e75b6&style=flat" alt="debobrott456" />
+  
+  <!-- GitHub Trophies -->
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=debobrott456&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%" />
+  
 </div>
 
 ---
@@ -72,13 +116,51 @@ I am a passionate **Full Stack Developer** specializing in the **MERN** stack. I
 
 ---
 
+### 🚀 Current Projects & Contributions
+
+<div align="center">
+  
+  <!-- GitHub Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debobrott456&theme=tokyo-night&hide_border=true&area=true&custom_title=Joy%20Kumar's%20Contribution%20Graph" width="100%" />
+  
+  <!-- Recent Activity -->
+  <details>
+    <summary>📈 Recent GitHub Activity</summary>
+    <br/>
+    
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+    
+  </details>
+  
+</div>
+
+---
+
 ### 🤝 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/joy-kumar-61b372392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joy Kumar" height="30" width="40" /></a>
-<a href="https://twitter.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Joy Kumar" height="30" width="40" /></a>
-<a href="https://fb.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Joy Kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Joy Kumar" height="30" width="40" /></a>
-</p>
+
+<div align="center">
+  
+  <!-- Social Media Links with Hover Effects -->
+  <a href="https://www.linkedin.com/in/joy-kumar-61b372392" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
+  </a>
+  <a href="https://github.com/debobrott456" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
+  </a>
+  
+  <br /><br />
+  
+  <!-- Fun Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+  
+</div>
 
 ---
 <p><img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" />
